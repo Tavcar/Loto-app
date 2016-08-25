@@ -1,0 +1,51 @@
+body {
+    background-color:gold;
+}
+
+h1 {
+    text-align: center;
+    color:black;
+    font-size: 34px;
+}
+
+.button {
+    background-color:black;
+    border: 3px dashed gold;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    height:  35px;
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
+    padding: 15px 15px 0px 15px;
+    margin: 70px auto 0 auto;
+}
+
+a {
+    color: gold;
+    text-decoration: none;
+}
+
+.nazaj {
+    color: black;
+}
+
+#bottom {
+    text-align: center;
+    font-weight: bold;
+    margin: 100px auto 0 auto;
+}
+
+p {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    height:  44px;
+    width: 400px;
+    text-align: center;
+    font-size: 24px;
+    padding: 15px 15px 0px 15px;
+    margin: 70px auto 0 auto;
+}
